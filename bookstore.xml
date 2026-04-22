@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookstore SYSTEM "bookstore.dtd">
+<bookstore>
+    <book id="b1">
+        <title>Python Book</title>
+        <author>Tanvi</author>
+        <price>45.50</price>
+        <year>2021</year>
+        <publisher>ABC Press</publisher>
+    </book>
+    <book id="b2">
+        <title>Java Book</title>DTD
+        <author>Riya</author>
+        <price>55.00</price>
+        <year>2018</year>
+        <publisher>ABC Press</publisher>
+
+    </book>
+</bookstore>

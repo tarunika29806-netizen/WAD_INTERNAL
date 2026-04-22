@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="bookstore.xsd">
+    <book id="b1">
+        <title>Python Book</title>
+        <author>Hari</author>
+        <price>45.50</price>
+        <year>20-21</year>
+    </book>
+    <book id="b2">
+        <title>Java Book</title>
+        <author>Joshua</author>
+        <price>55.00</price>
+        <year>20-18</year>
+    </book>
+</bookstore>
